@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## BOTSON-MD👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="botson-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
   </a>
@@ -81,9 +81,9 @@
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# PRABATH-MD Bot Commands
+# BOTSON-MD Bot Commands
 
-This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
+This is a list of commands supported by the botson-Md bot. The commands are organized in a table with the following structure:
 
 | CMD | DESCRIPTION | AVAILABLE OR NOT | ALIAS |
 |:---:|:-----------:|:-----------------:|:-------------------------:|
@@ -250,7 +250,6 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 |**[`Prabath Kumara`](https://github.com/prabathLK)**|
 
 ---
-
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
 |**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
