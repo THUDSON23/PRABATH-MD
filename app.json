@@ -9,7 +9,11 @@
     "BOT_NUMBER": {
       "description": "Put the number here.",
       "required": true
-    },  
+    },
+    "MODE": {
+      "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
+      "value": "private"
+    },
 
     "PASSWORD": {
       "description": "Enter a password of your choice here",
